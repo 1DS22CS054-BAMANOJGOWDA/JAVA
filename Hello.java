@@ -1,5 +1,5 @@
 public class Hello {
     public static void main(String args[]){
-        System.out.println("Main branch Changed");
+        System.out.println("Resolved code");
     }
 }
